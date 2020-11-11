@@ -4,7 +4,7 @@
 
 ## FIND ME 👇
 [![Github](https://img.shields.io/badge/Github-TECH--COCHI-gold?style=for-the-badge&logo=github)](https://github.com/rixon-cochi)
-[![YouTube](https://img.shields.io/badge/youtube-TECH--COCHI-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCdUnJ0qjDZ-psQYtgyoEl9Q)
+[![YouTube](https://img.shields.io/badge/youtube-TECH--COCHI-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCiE0p7rXWBEncUVsLo1C5Xg)
 [![Telegram](https://img.shields.io/badge/telegram-TECH--COCHI-blue?style=for-the-badge&logo=telegram)](https://t.me/techcochihack)
 
 
