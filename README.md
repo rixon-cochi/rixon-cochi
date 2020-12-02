@@ -1,7 +1,7 @@
 ## HELLO I AM ```TECH COCHI```
 ![20200703_192925.png](https://img.imageupload.net/2020/07/03/20200703_192925.png)
 
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=https://PayPal.me/techcochi)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/techcochi)
 
 ## FIND ME 👇
 [![Github](https://img.shields.io/badge/Github-TECH--COCHI-gold?style=for-the-badge&logo=github)](https://github.com/rixon-cochi)
