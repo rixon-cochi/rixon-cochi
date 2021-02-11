@@ -1,22 +1,30 @@
 ## HELLO I AM ```TECH COCHI```
-![20200703_192925.png](https://img.imageupload.net/2020/07/03/20200703_192925.png)
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/techcochi)
-
-## FIND ME 👇
-[![Github](https://img.shields.io/badge/Github-TECH--COCHI-gold?style=for-the-badge&logo=github)](https://github.com/rixon-cochi)
-[![YouTube](https://img.shields.io/badge/youtube-TECH--COCHI-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCiE0p7rXWBEncUVsLo1C5Xg)
-[![Telegram](https://img.shields.io/badge/telegram-TECH--COCHI-blue?style=for-the-badge&logo=telegram)](https://t.me/techcochihack)
+<p align="center"><a href="https://github.com/rixon-cochi"><img src="https://github.com/rixon-cochi/rixon-cochi/blob/main/IMG/Hack-This-SIte-Basic-9-ngr-5QXatUvRfM.gif"=alt"bt">
 
 
+<p align="center"><a href="https://github.com/rixon-cochi"><img title="TECH-COCHI" src="https://github-readme-stats.vercel.app/api?username=rixon-cochi&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+</p>
 
-<!--
-https://github.com/anuraghazra/github-readme-stats
--->
+<p align="center">
+</p>
 
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=rixon-cochi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rixon-cochi&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
-</div>
+<p align="center">
+<a href="https://t.me/techcochihack"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+<a href="https://youtube.com/c/techcochi2"><img title="Youtube" src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://techcoch.blogspot.com/?m=1"><img title="Blogger" src="https://img.shields.io/badge/Blogger-gold?style=for-the-badge&logo=Blogger"></a>
 
+
+<p align="center">
+<a href="https://github.com/rixon-cochi/SMF"><img title="SMF" src="https://github-readme-stats.vercel.app/api/pin/?username=rixon-cochi&repo=SMF&theme=highcontrast"></a>
+<a href="https://github.com/rixon-cochi/Lucifer"><img title="Lucifer" src="https://github-readme-stats.vercel.app/api/pin/?username=rixon-cochi&repo=Lucifer&theme=highcontrast"></a>
+<a href="https://github.com/rixon-cochi/hacking-tool"><img title="hacking-tool" src="https://github-readme-stats.vercel.app/api/pin/?username=rixon-cochi&repo=hacking-tool&theme=highcontrast"></a>
+<a href="https://github.com/rixon-cochi/telegram_bitcoin_bot"><img title="telegram_bitcoin_bot" src="https://github-readme-stats.vercel.app/api/pin/?username=rixon-cochi&repo=telegram_bitcoin_bot&theme=highcontrast"></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/rixon-cochi"><img title="rixon-cochi" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rixon-cochi&layout=compact"></a>
+</p>
+
+<p align="center"> MALAYALAM YOUTUBER 
 
