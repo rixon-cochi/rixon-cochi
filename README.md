@@ -20,6 +20,7 @@
 <a href="https://github.com/rixon-cochi/Lucifer"><img title="Lucifer" src="https://github-readme-stats.vercel.app/api/pin/?username=rixon-cochi&repo=Lucifer&theme=highcontrast"></a>
 <a href="https://github.com/rixon-cochi/hacking-tool"><img title="hacking-tool" src="https://github-readme-stats.vercel.app/api/pin/?username=rixon-cochi&repo=hacking-tool&theme=highcontrast"></a>
 <a href="https://github.com/rixon-cochi/telegram_bitcoin_bot"><img title="telegram_bitcoin_bot" src="https://github-readme-stats.vercel.app/api/pin/?username=rixon-cochi&repo=telegram_bitcoin_bot&theme=highcontrast"></a>
+<a href="https://github.com/rixon-cochi/facebook-video-downloader"><img title="facebook-video-downloader" src="https://github-readme-stats.vercel.app/api/pin/?username=rixon-cochi&repo=facebook-video-downloader&theme=highcontrast"></a>
 </p>
 
 <p align="center">
