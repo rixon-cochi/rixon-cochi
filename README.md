@@ -8,7 +8,7 @@
 
 
 <p align="center">
-<a href="https://https://www.paypal.com/myaccount/transfer/homepage/buy/preview"><img title="Paypal" src="https://img.shields.io/badge/Paypal-blue?style=for-the-badge&logo=Paypal"></a>
+<a href="https://https://www.paypal.com/myaccount/transfer"><img title="Paypal" src="https://img.shields.io/badge/Paypal-blue?style=for-the-badge&logo=Paypal"></a>
 <a href="https://t.me/techcochihack"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
 <a href="https://youtube.com/c/techcochi2"><img title="Youtube" src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=Youtube"></a>
 <a href="https://techcoch.blogspot.com/?m=1"><img title="Blogger" src="https://img.shields.io/badge/Blogger-gold?style=for-the-badge&logo=Blogger"></a>
